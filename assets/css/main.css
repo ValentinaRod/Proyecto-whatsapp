@@ -1,0 +1,57 @@
+.cajaCeleste{
+	width: 100%;
+	height: 200px;
+	background: #07846b;
+}
+
+body {
+	background-color: #eaeaea;
+}
+
+#main-container{
+	background-color: #eaeaea;
+	width: 80%;
+	height: 500px;
+	margin-left: 150px;
+	margin-top: ;
+}
+
+img{
+	border-radius: 50px;
+}
+
+.nombres {
+	font-size: 10px;
+	font-weight: bold;
+	color: #4c4a4a;
+}
+
+
+.nomb1, 
+.nomb2,
+.nomb3,
+.nomb4,
+.nomb5,
+.nomb6,
+.nomb7,
+.nomb8,
+.nomb9 {
+	
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.text1,
+.text2,
+.text3,
+.text4,
+.text5,
+.text6,
+.text7,
+.text8,
+.text9 {
+
+	font-size: 10px;
+	color: #b2adad;
+
+}
